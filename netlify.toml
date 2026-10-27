@@ -1,8 +1,0 @@
-[build]
-  publish = "."
-
-# Serve the main page at the site root (there is no index.html)
-[[redirects]]
-  from = "/"
-  to = "/seita-dos-pesadelos.html"
-  status = 200
